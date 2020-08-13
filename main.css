@@ -1,0 +1,16 @@
+html body {
+    background: grey;
+}
+output, button {
+    margin: 10px;
+    border-radius: 0;
+    border: 1px solid black;
+    background-color: blue;
+    height: 20px;
+    width: 100px;
+    font-weight: bold;
+}
+h1 {
+    color: black;
+    
+}
